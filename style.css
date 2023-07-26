@@ -8,7 +8,12 @@ h1 {
 }
 
 h2 {
-    color: #1460AA;
+    color: #042342;
+    background-color: #a2ccf7;
+}
+
+h3 {
+    color: #064d94;
 }
 
 section {
