@@ -5,6 +5,7 @@ body {
 
 h1 {
     color: brown;
+    text-align: center;
 }
 
 h2 {
@@ -22,4 +23,10 @@ section {
 
 article {
     background-color: #fefefe;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    background-color: brown;
 }
