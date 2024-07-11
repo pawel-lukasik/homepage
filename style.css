@@ -30,3 +30,15 @@ footer {
     text-align: center;
     background-color: brown;
 }
+
+.my-bolt {
+    font-weight: bold;
+}
+
+.my-purple {
+    color: purple;
+}
+
+#my-color {
+    color: orangered;
+}
