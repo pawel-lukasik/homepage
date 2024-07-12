@@ -31,6 +31,10 @@ footer {
     background-color: brown;
 }
 
+.my-list {
+    color: hotpink;
+}
+
 .my-bolt {
     font-weight: bold;
 }
