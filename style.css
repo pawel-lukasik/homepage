@@ -3,7 +3,12 @@ body {
     background: #fefefe;
 }
 
+header {
+text-align: center;
+}
+
 h1 {
+    position: relative;
     color: brown;
     text-align: center;
 }
@@ -31,6 +36,15 @@ footer {
     background-color: brown;
 }
 
+.nawigacja {
+    background-color: #f5b664;
+    display: inline-block;
+    margin: 10px 5px 5px 5px;
+    padding: 15px;
+    border-radius: 30px;
+    width: 100px;
+}
+
 .my-list {
     color: hotpink;
 }
@@ -43,6 +57,6 @@ footer {
     color: purple;
 }
 
-#my-color {
+#my-color-orange {
     color: orangered;
 }
